@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Exp",
+"dataUrl": "runner-build.data.unityweb",
+"asmCodeUrl": "runner-build.asm.code.unityweb",
+"asmMemoryUrl": "runner-build.asm.memory.unityweb",
+"asmFrameworkUrl": "runner-build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF"
+}
